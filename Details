@@ -1,0 +1,16 @@
+
+
+Events:
+  click, hover, leave, submit, change, scroll
+
+  removeListener
+
+  propagation
+    mechanism that defines how events propagate or travel through the DOM tree to arrive at its target and what happens to it afterward.
+
+  bubbling
+    event propagation from inner to outermost in DOM
+    
+  capturing
+    event propagation from  outer to innermost in DOM
+
