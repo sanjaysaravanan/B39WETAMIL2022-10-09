@@ -13,4 +13,6 @@ Events:
     
   capturing
     event propagation from  outer to innermost in DOM
+    
+  stop propagation ---> event.stopPropagation()
 
